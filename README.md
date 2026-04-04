@@ -150,5 +150,3 @@ A sustained 5% annual emissions reduction via clean energy transition could brin
 **Ina Louise Magno** — Data Analyst | Chemical Engineering graduate (UPLB)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ina-louise-magno)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chimkeninasal)
-
-*This project was completed as part of a data analytics bootcamp (Sprint 1) and extended with a reproducible Python pipeline for portfolio purposes.*
