@@ -123,14 +123,14 @@ A sustained 5% annual emissions reduction via clean energy transition could brin
 
 
 
-## Tools Used
+## Tech Stack
 
-| Tool | Purpose |
-|---|---|
-| Python (pandas, numpy) | Data QA, cleaning, pipeline |
-| Power BI | Dashboard and visualisation |
-| PowerQuery | Initial data exploration and transformation |
-| Excel | Data validation cross-checks |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 
 
@@ -148,6 +148,7 @@ A sustained 5% annual emissions reduction via clean energy transition could brin
 ## About
 
 **Ina Louise Magno** — Data Analyst | Chemical Engineering graduate (UPLB)  
-[LinkedIn](https://linkedin.com/in/ina-louise-magno) · [GitHub](https://github.com/chimkeninasal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ina-louise-magno)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chimkeninasal)
 
 *This project was completed as part of a data analytics bootcamp (Sprint 1) and extended with a reproducible Python pipeline for portfolio purposes.*
