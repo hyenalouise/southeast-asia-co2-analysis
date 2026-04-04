@@ -36,13 +36,11 @@ southeast-asia-co2-analysis/
 │
 ├── outputs/
 │   ├── indonesia-co2-cleaned.csv    ← Cleaned Indonesia dataset (135 rows × 25 cols)
-│   └── data_quality_log.csv         ← Machine-readable QA log (30 checks)
 │
 ├── notebooks/
 │   ├── indonesia-co2-eda.ipynb      ← Exploratory analysis (coming soon)
 │   └── owid_co2_datacleaning.ipynb  ← Python QA & cleaning script
 │
-├── DATA_QUALITY_LOG.md              ← Human-readable QA documentation
 └── README.md
 ```
 
